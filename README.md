@@ -8,4 +8,4 @@
 
 <br>
 
-[![Skills](https://skillicons.dev/icons?i=next,typescript,styledcomponents,graphql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=next,typescript,styledcomponents,graphql,jest)](https://skillicons.dev)
