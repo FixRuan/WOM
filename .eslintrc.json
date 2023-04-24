@@ -19,6 +19,9 @@
         "@typescript-eslint",
         "react-hooks"
     ],
+    "ignorePatterns": [
+        "node_modules/"
+    ],
     "rules": {
         "react-hooks/rules-of-hooks": "error",
         "react-hooks/exhaustive-deps": "warn",
